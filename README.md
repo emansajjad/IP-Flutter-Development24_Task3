@@ -1,11 +1,11 @@
-# IP-Flutter-Development24_Task3
+# Brainbox Quiz App
 
-Quiz App
-Welcome to Brainbox! This is a simple Flutter-based quiz app designed to test and sharpen your knowledge. The app provides a user-friendly interface with engaging quiz questions, showing results at the end of the quiz. The goal is to create an interactive learning experience where users can evaluate their skills and learn from their mistakes.
+Welcome to the Brainbox Quiz App! This app is designed to challenge your knowledge through engaging quizzes. It features an intuitive interface, dynamic navigation, and detailed feedback on your answers.
 
-Features
-Interactive quiz interface
-Beautiful, responsive UI with custom gradients and shadows
-A collection of general programming and software-related questions
-Score tracking based on correct answers
-Option to restart the quiz after completion
+## Features
+- **User-Friendly Interface:** Clean and attractive UI designed with Flutter.
+- **Static Width for Options:** Each answer option has a consistent width for improved readability.
+- **Progress Tracking:** A progress bar displays your current question relative to the total.
+- **Manual Navigation:** Users can navigate to the next question at their own pace.
+- **Answer Review:** After completing the quiz, users can review their selected answers alongside the correct answers.
+
